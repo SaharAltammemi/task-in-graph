@@ -1,0 +1,15 @@
+import turtle
+n=turtle.Turtle()
+n.color('red')
+#for i in range(3):
+n=turtle.Turtle()
+n.forward(100)
+n.left(120)
+n.forward(100)
+n.left(120)
+n.forward(100)
+n.left(50)
+n.backward(100)
+n.left(50)
+n.forward(100)
+turtle.done()
